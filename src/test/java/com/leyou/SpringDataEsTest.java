@@ -107,7 +107,7 @@ public class SpringDataEsTest {
             return new AggregatedPageImpl<T>(content,pageable,total,aggregations,scrollId,maxScore);
         }
     }
-//qweqweqwemaster
+//你们说的都对
     @Test
     public void testQue(){
         NativeSearchQueryBuilder nativeSearchQueryBuilder= new NativeSearchQueryBuilder();
