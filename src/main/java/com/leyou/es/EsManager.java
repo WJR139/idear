@@ -50,7 +50,7 @@ public class EsManager {
                 RestClient.builder(
 
                        new HttpHost("127.0.0.1",9201,"http"),
-                       new HttpHost("127.0.0.1",9202,"http"),
+                       new HttpHost("127.0.0.1",9202,"http1"),
                        new HttpHost("127.0.0.1",9203,"http")
                 )
         );
